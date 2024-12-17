@@ -27,5 +27,9 @@ Página Principal:
 Página Conceitos Básicos:
 ![Captura de tela 2024-12-16 234038](https://github.com/user-attachments/assets/bfd7a827-537b-4dfa-bd68-74a43fb63f7e)
 
+Página Ultimas Atualizações:
+![Captura de tela 2024-12-16 235742](https://github.com/user-attachments/assets/c959d29d-8354-45b9-9685-24e24a550cff)
+
+
 Página Nome dos Integrantes:
 ![Captura de tela 2024-12-16 235541](https://github.com/user-attachments/assets/56848eaa-b1df-4980-92c4-f09747dde8c2)
